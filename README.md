@@ -8,7 +8,7 @@
 >
 </div>
 <p align="center">
-  <a href="https://github.com/Nisa_kepo"><img title="Author" src="https://img.shields.io/badge/Author-Nisa_kepo-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Nisakepo/NISA-HX><img title="Author" src="https://img.shields.io/badge/Author-Nisa_kepo-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
   <a href="https://wa.me/6282245255702">NISAA >//< </a>
 </h4>
@@ -17,15 +17,15 @@
 ## CARA INSTALL DI TERMUX
 ```bash
 > pkg install nodejs && pkg install git
-> git clone https://github.com/Hexagonz/SELF-HX
-> cd SELF-HX
+> git clone https:https://github.com/Nisakepo/NISA-HX
+> cd NISAA-HX
 > bash install.sh
 > npm start/node main.js
 ```
 ## CARA INSTALL DI LAPTOP
 ```bash
-> git clone https://github.com/Hexagonz/SELF-HX 
-> cd SELF-HX
+> git clone  https://github.com/Nisakepo/NISA-HX
+> cd NISA-HX
 > npm i
 > npm start/node main.js
 ```
@@ -81,6 +81,7 @@
 | HIDETAG |✅|
 | KONTAG |✅|
 | TOTAG |✅|
+| TAGALL|✅|
 
 | DOWNLOAD |✅|
 | ------------- | ------------- |
