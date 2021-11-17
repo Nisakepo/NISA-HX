@@ -17,15 +17,15 @@
 ## CARA INSTALL DI TERMUX
 ```bash
 > pkg install nodejs && pkg install git
-> git clone https:https://github.com/Nisakepo/NISA-HX
-> cd NISA-HX
+> git clone https:https://github.com/Nisakepo/SELF-HX
+> cd SELF-HX
 > bash install.sh
 > npm start/node main.js
 ```
 ## CARA INSTALL DI LAPTOP
 ```bash
-> git clone  https://github.com/Nisakepo/NISA-HX
-> cd NISA-HX
+> git clone  https://github.com/Nisakepo/SELF-HX
+> cd SELF-HX
 > npm i
 > npm start/node main.js
 ```
@@ -43,6 +43,7 @@
 | OFF |✅|
 | ON |✅|
 | STATUS |✅|
+| OWNER |✅|
 
 | MAKER |✅|
 | ------------- | ------------- |
