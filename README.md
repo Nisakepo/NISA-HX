@@ -18,7 +18,7 @@
 ```bash
 > pkg install nodejs && pkg install git
 > git clone https:https://github.com/Nisakepo/NISA-HX
-> cd NISAA-HX
+> cd NISA-HX
 > bash install.sh
 > npm start/node main.js
 ```
