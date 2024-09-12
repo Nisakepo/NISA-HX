@@ -55,9 +55,9 @@ const { jadibot, stopjadibot, listjadibot } = require('./lib/jadibot')
 
 banChats = true
 offline = false
-targetpc = '6282245255702'
-owner = '082245255702'
-fake = 'NISAAA'
+targetpc = '6285751056816'
+owner = '6285751056816'
+fake = 'HEXAGONZ'
 numbernye = '0'
 waktu = '-'
 alasan = '-'
@@ -223,7 +223,7 @@ module.exports = hexa = async (hexa, mek) => {
                     });
                 };
                 download(url, filename, async function () {
-                    console.log('done')
+                    console.log('done');
                     let media = fs.readFileSync(filename)
                     let type = mime.split("/")[0]+"Message"
                     if(mime === "image/gif"){
